@@ -1,3 +1,3 @@
-// utils - 2026-02-10
-export const utilsVersion = '20';
-export const lastUpdated = '2026-02-10';
+// utils - 2026-03-02
+export const utilsVersion = '30';
+export const lastUpdated = '2026-03-02';
