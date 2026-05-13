@@ -1,3 +1,3 @@
-// helpers - 2026-04-23
-export const helpersVersion = '56';
-export const lastUpdated = '2026-04-23';
+// helpers - 2026-05-13
+export const helpersVersion = '66';
+export const lastUpdated = '2026-05-13';
