@@ -1,3 +1,3 @@
-// widgets - 2026-06-06
-export const widgetsVersion = '78';
-export const lastUpdated = '2026-06-06';
+// widgets - 2026-06-26
+export const widgetsVersion = '88';
+export const lastUpdated = '2026-06-26';
