@@ -1,3 +1,3 @@
-// hooks - 2026-06-14
-export const hooksVersion = '82';
-export const lastUpdated = '2026-06-14';
+// hooks - 2026-07-04
+export const hooksVersion = '92';
+export const lastUpdated = '2026-07-04';
