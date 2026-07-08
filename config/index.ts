@@ -1,3 +1,3 @@
-// config - 2026-06-18
-export const configVersion = '84';
-export const lastUpdated = '2026-06-18';
+// config - 2026-07-08
+export const configVersion = '94';
+export const lastUpdated = '2026-07-08';
