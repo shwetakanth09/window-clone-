@@ -1,0 +1,15 @@
+export const socialLinks = {
+  github: 'https://github.com/xqyet',
+  discord: 'https://redacted.bio/xque',
+  spacehey: 'https://spacehey.com/xqyet',
+  steam: 'https://steamcommunity.com/id/xqyet/',
+  totalanime: 'https://totalanime.me/',
+  freeanime: 'https://freeanime.me/',
+  ooBio: 'https://oo.bio/contributors',
+  redacted: 'https://redacted.bio/',
+  hedgecrates: 'https://hedgecrates.com/',
+  maidcode: 'https://maidcode.me/',
+  youtube: 'https://www.youtube.com/playlist?list=PLLgmgkxiK6hM47PEwFHDT6R81-oBiqWkm',
+  terminal: 'https://github.com/xqyet/xqyet.terminal',
+  '2w2t': 'https://2w2t.org/',
+}
